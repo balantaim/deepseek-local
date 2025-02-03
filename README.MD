@@ -1,6 +1,12 @@
 # Spring web chat application from local LLM - DeepSeek
 
-### Requirement
+![SEO Optimisations](images/spring-ai.svg)
+
+<hr>
+
+![SEO Optimisations](images/deepseek.png)
+
+## Requirements
 
 <p><b>Tools:</b> Python 3.8 or greater, Java 17 or greater, Ollama, Deepseek LLM</p>
 
