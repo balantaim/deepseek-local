@@ -1,12 +1,14 @@
 # Spring web chat application from local LLM - DeepSeek
 
+<br>
+
 ![SEO Optimisations](images/spring-ai.svg)
 
 <hr>
 
 ![SEO Optimisations](images/deepseek.png)
 
-<hr>
+<br>
 
 ## Requirements
 
