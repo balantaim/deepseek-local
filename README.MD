@@ -12,16 +12,16 @@
 
 ### Setup
 
-<ul>
+<ol>
     <li><a href="https://www.python.org/">Download and install Python</a></li>
     <li><a href="https://ollama.com/">Download and install Ollama</a></li>
     <li><a href="https://ollama.com/search">Select your language model</a> and run in from the terminal (in our case we use "<i>ollama run deepseek-r1:7b</i>" for DeepSeek model)</li>
     <li>If you run it for the first time it will install the LLM (test it, then close it with CTR+Z)</li>
     <li>Install Java (OpenJDK recommended, OracleJDK)</li>
     <li>Run the Spring application</li>
-</ul>
+</ol>
 
-> [!INFO]
+> [!IMPORTANT]
 > For Ubuntu base Linux you will have base Python 3 installed. Some additional package need to be installed like: pip, setuptools and gradio!
 
 ### Spring configuration
